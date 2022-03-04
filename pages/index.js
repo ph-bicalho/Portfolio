@@ -233,7 +233,7 @@ function Home(){
                 <input type="hidden" name="accessKey" value="d2cde324-177e-4176-929e-9579b68792f2"/>
     
                 <label for="name">Name</label>
-                <input type="text"  name="name" placeholder ="Name" required />
+                <input type="text" name="name" placeholder ="Name" required />
     
                 <label for="email">Email</label>
                 <input type="email" name="email" placeholder="example@mail.com" required/>
@@ -254,7 +254,7 @@ function Home(){
         <footer>
             <div>
                 <ul>
-                    <li><a href="../pt/" className="button" id="btn-1"></a></li>
+                    <li><a href="/pt" className="button" id="btn-1"></a></li>
                 
                     <li className="break"> <div > </div></li>
                     <li><a href="https://www.instagram.com/dev.phbicalho/" className="button" id="btn-2" ></a></li>
