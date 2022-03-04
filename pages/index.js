@@ -233,7 +233,7 @@ function Home(){
                 <input type="hidden" name="accessKey" value="d2cde324-177e-4176-929e-9579b68792f2"/>
     
                 <label for="name">Name</label>
-                <input type="text" value=""  name="name" placeholder = "Name" required/>
+                <input type="text"  name="name" placeholder ="Name" required />
     
                 <label for="email">Email</label>
                 <input type="email" name="email" placeholder="example@mail.com" required/>

@@ -232,7 +232,7 @@ function Pt(){
                 <input type="hidden" name="accessKey" value="d2cde324-177e-4176-929e-9579b68792f2"/>
     
                 <label for="name">Nome</label>
-                <input type="text" value=""  name="name" placeholder = "Nome" required/>
+                <input type="text" name="name" placeholder = "Nome" required/>
     
                 <label for="email">Email</label>
                 <input type="email" name="email" placeholder="exemplo@mail.com" required/>
