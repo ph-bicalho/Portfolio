@@ -3,7 +3,11 @@ import Head from "next/head"
 function Home(){
     return(
     <div>
-         <Head> <title>Portfolio - Pedro Bicalho - Web developer</title> </Head>
+         <Head> <title>Portfolio - Pedro Bicalho - Web developer</title>
+                <link rel="shortcut icon" href="/favicon.ico" />
+
+
+        </Head>
 
         <header>
            <img src="/images/logo.png" id="logo"/>

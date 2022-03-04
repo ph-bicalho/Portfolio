@@ -2,7 +2,9 @@ import Head from "next/head"
 function Pt(){
     return(
         <>
-         <Head> <title>Portfólio - Pedro Bicalho - Desenvolvedor Web</title> </Head>
+         <Head> <title>Portfólio - Pedro Bicalho - Desenvolvedor Web</title>
+                <link rel="shortcut icon" href="/favicon.ico" />
+        </Head>
 
         <header>
            <img src="/images/logo.png" id="logo"/>
