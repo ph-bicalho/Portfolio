@@ -253,7 +253,7 @@ function Pt(){
         <footer>
         <div>
             <ul>
-                <li><a href="index.html" className="button" id="btn-En"></a></li>
+                <li><a href="/" className="button" id="btn-En"></a></li>
             
                 <li className="break"> <div > </div></li>
                 <li><a href="https://www.instagram.com/dev.phbicalho/" target="_blank" className="button" id="btn-2" ></a></li>
