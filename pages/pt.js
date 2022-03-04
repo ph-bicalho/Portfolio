@@ -2,7 +2,7 @@ import Head from "next/head"
 function Pt(){
     return(
         <>
-         <Head> <title>Portifólio - Pedro Bicalho - Desenvolvedor Web</title> </Head>
+         <Head> <title>Portfólio - Pedro Bicalho - Desenvolvedor Web</title> </Head>
 
         <header>
            <img src="/images/logo.png" id="logo"/>
@@ -11,7 +11,7 @@ function Pt(){
                 <nav>
                     <ul>
                         <li><a href="#About">Sobre</a></li>
-                        <li><a href="#Portfolio">Portifólio</a></li>
+                        <li><a href="#Portfolio">Portfólio</a></li>
                         <li><a href="#Contact">Contato</a></li>
                     </ul>
                 </nav>
@@ -28,7 +28,7 @@ function Pt(){
                                     <ul>
                                         <li><a href="#Introducing">Início</a></li>
                                         <li><a href="#About">Sobre</a></li>
-                                        <li><a href="#Portfolio">Portifólio</a></li>
+                                        <li><a href="#Portfolio">Portfólio</a></li>
                                         <li><a href="#Contact">Contato</a></li>
                                     </ul>
                                 </nav>  
@@ -148,7 +148,7 @@ function Pt(){
     
         <section id="Portfolio">
     
-            <h2>Portifólio</h2>
+            <h2>Portfólio</h2>
     
     
             <div  className="flex-container wrap" data-animate="left">
@@ -189,8 +189,8 @@ function Pt(){
                     <br/>
                     Nesse projeto utilizei pela primeira vez o Figma para criação de todos os ícones, foi uma gande experiencia que com certeza agregou muito no meu aprendizado.</p>
 
-                    <a href="https://github.com/ph-bicalho/SpotPE.git"target="_blank" target="_blank">Ver o código</a>
-                    <a href="https://ph-bicalho.github.io/SpotPE/" className="button"target="_blank" target="_blank">Ver Site</a>
+                    <a href="https://github.com/ph-bicalho/SpotPE.git"target="_blank" >Ver o código</a>
+                    <a href="https://ph-bicalho.github.io/SpotPE/" className="button"target="_blank" >Ver Site</a>
                 </div>
             </div>
             
@@ -200,8 +200,8 @@ function Pt(){
                     <p>Website feito para organização de links pessoais. funciona como o linktree.</p>
                   <p>Simples mas muito útil.</p>
                   <p> Feito com HTML e CSS.</p>
-                <a href="#"target="_blank" target="_blank">Ver o código</a>
-                <a href="#" className="button"target="_blank" target="_blank">Ver Site</a>
+                <a href="#"target="_blank">Ver o código</a>
+                <a href="#" className="button"target="_blank">Ver Site</a>
                 </div>
     
                 <img src="/images/LinkList.png" alt="notebook and cellphone with a screenshot of LinkList page"/>
