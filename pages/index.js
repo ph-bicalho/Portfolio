@@ -244,9 +244,9 @@ function Home(){
                 <input type="hidden" name="replyTo" value="@"/>
     
                 <label for="text">Message</label>
-                <textarea name="text" cols="30" rows="10" placeholder="Type here your message" required></textarea>
+                <textarea type="text" name="message" cols="30" rows="10" placeholder="Type here your message" required></textarea>
     
-                <input type="hidden" name="redirectTo" value="index.html"/>
+                <input type="hidden" name="redirectTo" value="https://phbicalho.com"/>
                 <input type="submit" id="send-button" value="Submit"/>
             
             </form>
