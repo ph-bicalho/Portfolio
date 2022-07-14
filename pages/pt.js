@@ -4,6 +4,7 @@ function Pt(){
         <>
          <Head> <title>Portfólio - Pedro Bicalho - Desenvolvedor Web</title>
                 <link rel="shortcut icon" href="/favicon.ico" />
+                <meta name="description" content="Portfólio de Desenvolvedor Full-Stack, Pedro Bicalho" />
         </Head>
 
         <header>
@@ -231,7 +232,7 @@ function Pt(){
     
         
             <form action="https://api.staticforms.xyz/submit" method="post">
-                <input type="hidden" name="accessKey" value="d2cde324-177e-4176-929e-9579b68792f2"/>
+                <input type="hidden" name="accessKey" value="5026b6a1-97ab-4dde-96f8-980fa53ad529"/>
     
                 <label for="name">Nome</label>
                 <input type="text" name="name" placeholder = "Nome" required/>
@@ -243,7 +244,7 @@ function Pt(){
                 <label for="text">Mensagem</label>
                 <textarea name="text" cols="30" rows="10" placeholder="Escreva aqui a sua mensagem" required></textarea>
     
-                <input type="hidden" name="redirectTo" value="index.html"/>
+                <input type="hidden" name="redirectTo" value="https://phbicalho.com/pt"/>
                 <input type="submit" id="send-button" value="Enviar"/>
             
             </form>

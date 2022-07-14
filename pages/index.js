@@ -5,8 +5,7 @@ function Home(){
     <div>
          <Head> <title>Portfolio - Pedro Bicalho - Web developer</title>
                 <link rel="shortcut icon" href="/favicon.ico" />
-
-
+                <meta name="description" content="Full-stack Web Developer Portfolio, Pedro Bicalho" />
         </Head>
 
         <header>
@@ -234,7 +233,7 @@ function Home(){
     
         
             <form action="https://api.staticforms.xyz/submit" method="post">
-                <input type="hidden" name="accessKey" value="d2cde324-177e-4176-929e-9579b68792f2"/>
+                <input type="hidden" name="accessKey" value="5026b6a1-97ab-4dde-96f8-980fa53ad529"/>
     
                 <label for="name">Name</label>
                 <input type="text" name="name" placeholder ="Name" required />
