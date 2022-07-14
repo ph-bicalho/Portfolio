@@ -242,7 +242,7 @@ function Pt(){
                 <input type="hidden" name="replyTo" value="@"/>
     
                 <label for="text">Mensagem</label>
-                <textarea name="text" cols="30" rows="10" placeholder="Escreva aqui a sua mensagem" required></textarea>
+                <textarea name="message" cols="30" rows="10" placeholder="Escreva aqui a sua mensagem" required></textarea>
     
                 <input type="hidden" name="redirectTo" value="https://phbicalho.com/pt"/>
                 <input type="submit" id="send-button" value="Enviar"/>
